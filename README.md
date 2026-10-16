@@ -20,3 +20,6 @@ Progres tersimpan di penyimpanan lokal browser/perangkat yang digunakan. Progres
 
 ## Hosting
 Situs ini disiapkan untuk GitHub Pages melalui GitHub Actions workflow di `.github/workflows/pages.yml`.
+
+
+Deployment automation: GitHub Actions is configured to enable Pages and publish the game on pushes to `main`.
